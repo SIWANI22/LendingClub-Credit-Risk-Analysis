@@ -1,0 +1,27 @@
+
+# Dataset files
+*.csv
+
+# Saved machine learning models
+*.pkl
+*.joblib
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Generated output
+*.png
+*.jpg
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
